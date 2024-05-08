@@ -1,4 +1,4 @@
-Projeto criado com a simples finalidade de usar essa ferramenta poderosa TI Draw
+Projeto criado em [Next.js](https://nextjs.org/) com a simples finalidade de usar essa ferramenta poderosa TI Draw.
 
 ## TI Draw
 
