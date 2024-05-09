@@ -1,5 +1,5 @@
-Projeto criado em [Next.js](https://nextjs.org/) com a simples finalidade de usar essa ferramenta poderosa TI Draw.
+Projeto criado em [Next.js](https://nextjs.org/) com a simples finalidade de usar essa ferramenta poderosa TL Draw.
 
-## TI Draw
+## TL Draw
 
-Todos os créditos para [tIDraw](https://www.npmjs.com/package/@tldraw/tldraw).
+Todos os créditos para [tlDraw](https://www.npmjs.com/package/@tldraw/tldraw).
