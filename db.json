@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mouse Redragon Storm",
+      "category": "Accessory",
+      "price": 150.99,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/mouse-gamer-redragon-storm-elite-16000-dpi-8-botoes-programaveis-black-m988-rgb_111410.png",
+      "description": "Mouse sem fio"
+    },
+    {
+      "id": 2,
+      "name": "Teclado Mecânico Corsair K70",
+      "category": "Accessory",
+      "price": 499.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/teclado-mecanico-gamer-corsair-k70-rgb-mk2-cherry-mx-red-abnt2-preto_103741.png",
+      "description": "Teclado mecânico com iluminação RGB"
+    },
+    {
+      "id": 3,
+      "name": "Monitor LG UltraGear 27''",
+      "category": "Monitor",
+      "price": 1899.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/monitor-gamer-lg-27-ultragear-full-hd-144hz-1ms-hdmi-displayport-freesync-gsync-27gn65r-b_158772.png",
+      "description": "Monitor gamer 144Hz Full HD"
+    },
+    {
+      "id": 4,
+      "name": "Headset HyperX Cloud Stinger",
+      "category": "Peripherals",
+      "price": 299.99,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/headset-gamer-hyperx-cloud-stinger-core-com-fio-drivers-40mm-p2-preto_158367.png",
+      "description": "Headset com som imersivo e microfone"
+    },
+    {
+      "id": 5,
+      "name": "Placa de Vídeo RTX 3060",
+      "category": "Hardware",
+      "price": 2499.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/placa-de-video-rtx-3060-galax-1-click-oc-12gb-gddr6-192bit-geforce-nvidia_153499.png",
+      "description": "Placa de vídeo para jogos em alta performance"
+    },
+    {
+      "id": 6,
+      "name": "Processador AMD Ryzen 5 5600X",
+      "category": "Hardware",
+      "price": 999.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/processador-amd-ryzen-5-5600x-cache-35mb-3-7ghz-4-6ghz-max-turbo-am4-sem-video_120085.png",
+      "description": "Processador com 6 núcleos e alto desempenho"
+    },
+    {
+      "id": 7,
+      "name": "SSD Kingston 1TB NVMe",
+      "category": "Storage",
+      "price": 399.99,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/ssd-1tb-kingston-nv2-nvme-m2-leitura-3500mbs-e-gravacao-2100mbs-snvd1tb_158799.png",
+      "description": "SSD de alta velocidade para armazenamento rápido"
+    },
+    {
+      "id": 8,
+      "name": "HD Seagate 2TB",
+      "category": "Storage",
+      "price": 359.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/hd-seagate-barracuda-2tb-7200rpm-256mb-sata-iii-35-st2000dm008_120275.png",
+      "description": "HD interno com grande capacidade de armazenamento"
+    },
+    {
+      "id": 9,
+      "name": "Gabinete Gamer Redragon Grapple",
+      "category": "Case",
+      "price": 349.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/gabinete-gamer-redragon-grapple-mid-tower-rgb-lateral-em-vidro-temperado-sem-fonte-sem-fan-preto_158630.png",
+      "description": "Gabinete com painel lateral de vidro temperado"
+    },
+    {
+      "id": 10,
+      "name": "Fonte Corsair 650W 80 Plus Bronze",
+      "category": "Hardware",
+      "price": 459.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/fonte-corsair-cv650-650w-80-plus-bronze-pfc-ativo-cp-9020236-ww_153136.png",
+      "description": "Fonte de alimentação confiável e eficiente"
+    },
+    {
+      "id": 11,
+      "name": "Cadeira Gamer ThunderX3",
+      "category": "Furniture",
+      "price": 1399.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/cadeira-gamer-thunderx3-tgc12-air-mesh-black_153090.png",
+      "description": "Cadeira ergonômica com apoio de braço ajustável"
+    },
+    {
+      "id": 12,
+      "name": "Notebook Dell Inspiron i5",
+      "category": "Notebook",
+      "price": 3499.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/notebook-dell-inspiron-i15-i1100-a30p-intel-core-i5-8gb-ssd-256gb-windows-11-home-156_160843.png",
+      "description": "Notebook com Intel Core i5 e SSD de 256GB"
+    },
+    {
+      "id": 13,
+      "name": "Smartphone Samsung Galaxy A54",
+      "category": "Smartphone",
+      "price": 2099.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/smartphone-samsung-galaxy-a54-5g-128gb-8gb-ram-octa-core-tela-infinita-de-61-camera-tripla-50mp_161312.png",
+      "description": "Celular com tela infinita e câmera tripla"
+    },
+    {
+      "id": 14,
+      "name": "Roteador TP-Link Archer AX73",
+      "category": "Network",
+      "price": 699.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/roteador-tp-link-archer-ax73-dual-band-wi-fi-6-ax5400_160377.png",
+      "description": "Roteador Wi-Fi 6 com alta velocidade"
+    },
+    {
+      "id": 15,
+      "name": "Cooler Master Hyper 212 Black",
+      "category": "Cooling",
+      "price": 229.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/cooler-master-hyper-212-black-edition-intel-amd-rr-212s-20pk-r1_160270.png",
+      "description": "Cooler para CPU com ótimo desempenho térmico"
+    },
+    {
+      "id": 16,
+      "name": "Webcam Logitech C920",
+      "category": "Peripherals",
+      "price": 499.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/webcam-logitech-c920-pro-full-hd-1080p-usb_158759.png",
+      "description": "Webcam Full HD ideal para videochamadas"
+    },
+    {
+      "id": 17,
+      "name": "Estabilizador Ragtech 300VA",
+      "category": "Electrical",
+      "price": 189.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/estabilizador-ragtech-energy-pro-300va-bivolt-115v-4-tomadas_157904.png",
+      "description": "Estabilizador bivolt para proteção de equipamentos"
+    },
+    {
+      "id": 18,
+      "name": "Tablet Samsung Galaxy Tab A7",
+      "category": "Tablet",
+      "price": 1299.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/tablet-samsung-galaxy-tab-a7-lite-32gb-wi-fi-tela-de-7-polegadas-octa-core-prata_160905.png",
+      "description": "Tablet com tela de 8.7'' e design compacto"
+    },
+    {
+      "id": 19,
+      "name": "Controle Xbox Series X",
+      "category": "Console Accessory",
+      "price": 429.0,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/controle-sem-fio-microsoft-xbox-series-branco-robot-white-qas-00001_160696.png",
+      "description": "Controle sem fio com ergonomia aprimorada"
+    },
+    {
+      "id": 20,
+      "name": "Hub USB 3.0 com 4 portas",
+      "category": "Peripherals",
+      "price": 89.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/hub-usb-30-com-4-portas-u3hub4-03_157362.png",
+      "description": "Hub USB para conectar múltiplos dispositivos"
+    },
+    {
+      "id": 21,
+      "name": "Hub USB 3.0 com 4 portas 123",
+      "category": "Peripherals",
+      "price": 89.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/hub-usb-30-com-4-portas-u3hub4-03_157362.png",
+      "description": "Hub USB para conectar múltiplos dispositivos"
+    },
+    {
+      "id": 22,
+      "name": "Hub USB 3.0 com 4 portas 1234",
+      "category": "Peripherals",
+      "price": 89.9,
+      "url_image": "https://img.terabyteshop.com.br/produto/g/hub-usb-30-com-4-portas-u3hub4-03_157362.png",
+      "description": "Hub USB para conectar múltiplos dispositivos"
+    }
+  ]
+}
